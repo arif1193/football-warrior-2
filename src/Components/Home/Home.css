@@ -1,0 +1,21 @@
+.banner{
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}  
+.banner img{
+    width: 100%;
+}
+.heading-text{
+    color: rgb(66, 66, 31);
+    position: absolute;
+    top: 15%;
+    width: 100%;
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 5px 5px 10px  #9c280be5;
+}
+.background_color{
+    background-color: rgb(179, 136, 80);
+}
+

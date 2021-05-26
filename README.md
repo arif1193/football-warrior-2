@@ -1,4 +1,4 @@
-## Football Warrior
+
 Links
 
 > Feature

@@ -1,0 +1,23 @@
+.box-style{
+    border: 5px solid rgb(84, 85, 49);
+    color: rgb(22, 54, 97);
+    background-color: rgb(153, 194, 56);
+    height: 350px;
+    margin: 20px;
+    width: 250px;
+    border-radius: 200px;
+}
+.team-item img{
+    height: 100px;
+    padding: 10px;
+}
+.team-item{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.button-explore{
+    border: 3px solid rgb(87, 87, 184);
+    border-radius: 10px;
+    background-color: rgb(153, 131, 131);
+}
