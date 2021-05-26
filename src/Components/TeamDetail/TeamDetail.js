@@ -47,7 +47,7 @@ const TeamDetail = () => {
                 <p><b><i>{singleTeam.strDescriptionEN}</i></b></p>
 
                 <div className="font-size">
-                    <a href={`https://${singleTeam.strFacebook}`} target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
+                    <a href={`https://${singleTeam.strFacebook}`} rel=opener target="_blank"><FontAwesomeIcon icon={faFacebook} /></a>
                     <br />
                     <a href={`https://${singleTeam.strInstagram}`} target="_blank"><FontAwesomeIcon icon={faInstagramSquare} /></a>
                 </div>
